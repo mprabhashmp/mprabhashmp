@@ -3,13 +3,6 @@
 I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours)
 
 
-- 🔭 I’m currently working on levels
-- 🌱 I’m currently learning newthings
-- 👯 I’m looking to collaborate on topics
-- 🤔 I’m looking for help with humans
-- 💬 Ask me about myself
-- ⚡ Fun fact: welcome to the Earth 
-
 <h1 align="center">Hi 👋, I'm Milindu Prabhash</h1>
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka</h3>
 
