@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Milindu Prabhash</h1>
 <h4 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h4>
 
-![](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)
+<center>![](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)</center>
 
 
 ## 🌐 Socials:
@@ -26,7 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<center>![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)</center>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
