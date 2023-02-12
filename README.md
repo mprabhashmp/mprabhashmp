@@ -2,9 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Milindu Prabhash</h1>
-<h2 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h2>
-
-<h3 align="center">A passionate frontend & backend developer from Sri Lanka</h3>
+<h4 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h4>
 
 ![](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)
 
