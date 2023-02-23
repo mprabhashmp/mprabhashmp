@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Milindu Prabhash</h1>
-<h4 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h4>
+<h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h3>
 
 ![](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)
 
@@ -18,8 +18,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mprabhashmp&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mprabhashmp&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mprabhashmp&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mprabhashmp&theme=algolia&no-frame=true&no-bg=true&margin-w=4)-->
 
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
