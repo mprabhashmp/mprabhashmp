@@ -3,15 +3,10 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Milindu Prabhash</h1>
 <h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h3>
-<p align="center"> 
+<p align="center">
+  <br><br>
   <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/Madhubhashana99/count.svg" />
-</p>
-
-<p align="right">
-  <a href="https://github.com/mprabhashmp?tab=followers">
-    <img src="https://img.shields.io/github/followers/mprabhashmp?style=flat-square&color=040404&logo=github" alt="GitHub followers" />
-  </a>
 </p>
 
 
@@ -22,7 +17,7 @@
 <br>
 <br>
 
-![](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)
+<p align="center"> ![](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009227773732) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milinduprabhash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/mprabhash-milindu-98927b1a6)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC11eirLdPTtGWU5KlSE5WyA) 
