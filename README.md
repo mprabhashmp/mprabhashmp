@@ -16,6 +16,9 @@
 <br>
 
  <p align="center"><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220px" ></p>
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009227773732) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milinduprabhash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/mprabhash-milindu-98927b1a6)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC11eirLdPTtGWU5KlSE5WyA) 
@@ -36,10 +39,8 @@
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" ></p>
 ---
-[![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
+
 
 
