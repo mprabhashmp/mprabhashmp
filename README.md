@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<center> ![](https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif)</center>
+ <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="120px">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009227773732) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milinduprabhash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/mprabhash-milindu-98927b1a6)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC11eirLdPTtGWU5KlSE5WyA) 
