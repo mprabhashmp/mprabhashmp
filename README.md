@@ -32,10 +32,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=mprabhashmp&theme=algolia&no-frame=true&no-bg=true&margin-w=4)-->
 
 ### ✍️Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" ></p>
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" ></p>
----
 
-
+[![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
 
