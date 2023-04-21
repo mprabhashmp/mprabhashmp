@@ -4,14 +4,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Milindu Prabhash</h1>
 <h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h3>
 <p align="center">
-  <br><br>
-
+  <br>
+  
+ <p align="center"><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220px" ></p>
 <p align="center">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Make+it+Work+;Make+it+right+;Make+it+fast&center=true&width=500&height=50"></a>
 </p>
 
- <p align="center"><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220px" ></p>
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
 
