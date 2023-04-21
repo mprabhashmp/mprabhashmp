@@ -5,10 +5,7 @@
 <h3 align="center">I'm an undergraduate at University of Ruhuna in Sri Lanka (Bachelor of Information and Communication Technology Honours).</h3>
 <p align="center">
   <br><br>
-  <b>Visitor Count</b><br>
-  <img src="https://profile-counter.glitch.me/mprabhashmp/count.svg" />
-  [![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
-</p>
+
 
 
 <p align="center">
