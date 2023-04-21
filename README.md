@@ -6,14 +6,9 @@
 <p align="center">
   <br><br>
 
-
-
 <p align="center">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Make+it+Work+;Make+it+right+;Make+it+fast&center=true&width=500&height=50"></a>
 </p>
-
-<br>
-<br>
 
  <p align="center"><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="220px" ></p>
 <br>
