@@ -30,10 +30,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mprabhashmp&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-[![An image of @mprabhashmp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mprabhashmp
-(https://holopin.io/@mprabhashmp)
-
+[![An image of @mprabhashmp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mprabhashmp)
 
 ## ✍️Quote
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" ></p>
