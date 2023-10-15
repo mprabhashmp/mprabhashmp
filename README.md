@@ -29,8 +29,9 @@
 [![An image of @mprabhashmp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mprabhashmp)](https://holopin.io/@mprabhashmp)
 
 <div align="center">
-[![](https://github-readme-stats.vercel.app/api?username=mprabhashmp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)]<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=mprabhashmp&theme=dark&hide_border=false)]<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mprabhashmp&show_icons=true&locale=en&theme=dracula&hide_border=false" alt="mprabhashmp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mprabhashmp&theme=dracula&hide_border=false" alt="mprabhashmp" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mprabhashmp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
