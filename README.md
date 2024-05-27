@@ -16,7 +16,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009227773732) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milinduprabhash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mprabhashmp99)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC11eirLdPTtGWU5KlSE5WyA) 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-075e54?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+94772216644)](https://wa.me/+94772216644)
 
 
 ## 💻 Tech Stack:
