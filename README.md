@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Milindu Prabhash</h1>
-<h3 align="center">I'm a Software Engineer Sri Lanka.</h3>
+<h3 align="center">I'm a Software Engineer of Sri Lanka.</h3>
 <p align="center">
   <br>
   
