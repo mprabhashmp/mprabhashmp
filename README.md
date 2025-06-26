@@ -30,6 +30,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" ></p>
 
-[![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
+![Profile views counter](https://komarev.com/ghpvc/?username=mprabhashmp&&style=flat-square)  
 
 
