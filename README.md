@@ -21,12 +21,6 @@
 
 [![An image of @mprabhashmp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mprabhashmp)](https://holopin.io/@mprabhashmp)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mprabhashmp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mprabhashmp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
 ## ✍️Quote
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" ></p>
 
