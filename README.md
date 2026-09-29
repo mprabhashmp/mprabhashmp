@@ -1,32 +1,125 @@
-
-
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Milindu Prabhash</h1>
-
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
- <p align="center"><img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="240px" ></p>
-<p align="center">
- <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Make+it+Work+;Make+it+right+;Make+it+fast&center=true&width=500&height=50"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=220&section=header&text=Milindu%20Prabhash&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mprabhashmp99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC11eirLdPTtGWU5KlSE5WyA) 
-<br/>
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=%3E+Make+it+Work_;%3E+Make+it+Right_;%3E+Make+it+Fast_;%3E+Building+the+future%2C+one+commit+at+a+time_" alt="Typing SVG"/>
+  </a>
+</p>
 
-## 💻 Language and Tools:
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/mprabhashmp99"><img src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/channel/UC11eirLdPTtGWU5KlSE5WyA"><img src="https://img.shields.io/badge/YouTube-0A0F1F?style=for-the-badge&logo=youtube&logoColor=FF0050" alt="YouTube"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mprabhashmp&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile views"/>
+</p>
 
-## 📊 GitHub Stats:
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<table>
+<tr>
+<td width="55%" valign="top">
 
-[![An image of @mprabhashmp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mprabhashmp)](https://holopin.io/@mprabhashmp)
+### `> whoami`
 
-## ✍️Quote
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" ></p>
+```yaml
+name:      Milindu Prabhash
+role:      Software Engineer
+focus:     [ Full-Stack Web, Cloud, Machine Learning ]
+currently: Building scalable, cloud-native applications
+learning:  AI / ML & DevOps automation
+motto:     "Make it work → Make it right → Make it fast"
+status:    ⚡ Online & shipping
+```
 
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" ></p>
+</td>
+<td width="45%" align="center">
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mprabhashmp&&style=flat-square)  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## ⚙️ `TECH_STACK.exe`
 
+<table align="center">
+<tr>
+  <td align="center" width="150"><b>🧠 Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,php&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="center"><b>🎨 Frontend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap&theme=dark" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height="40"/></td>
+</tr>
+<tr>
+  <td align="center"><b>🛠️ Backend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="center"><b>🗄️ Databases</b></td>
+  <td><img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" /> <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40"/></td>
+</tr>
+<tr>
+  <td align="center"><b>☁️ Cloud & DevOps</b></td>
+  <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="center"><b>🤖 AI / ML</b></td>
+  <td><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></td>
+</tr>
+<tr>
+  <td align="center"><b>🧪 Tools & Design</b></td>
+  <td><img src="https://skillicons.dev/icons?i=postman,selenium,figma,ps&theme=dark" /></td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📡 `SYSTEM_DIAGNOSTICS`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mprabhashmp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mprabhashmp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mprabhashmp&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mprabhashmp&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Signal" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mprabhashmp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+<!-- ═══════════════════════════ BADGES ═══════════════════════════ -->
+## 🏅 `ACHIEVEMENTS_UNLOCKED`
+
+<p align="center">
+  <a href="https://holopin.io/@mprabhashmp">
+    <img src="https://holopin.me/mprabhashmp" alt="@mprabhashmp's Holopin badges"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
+## 💬 `DAILY_TRANSMISSION`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%E2%80%94+see+you+in+the+future+%F0%9F%9A%80" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
