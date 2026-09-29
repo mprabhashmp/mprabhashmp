@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M40 20 H300 L315 8 H440 L455 20 H545 L560 32 H685 L700 20 H960" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M40 20 H300 L315 8 H440 L455 20 H545 L560 32 H685 L700 20 H960" fill="none" stroke="#00d4ff" stroke-width="2" filter="url(#glow)" stroke-dasharray="120 1100">
+    <animate attributeName="stroke-dashoffset" from="1220" to="0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <g fill="#00d4ff" filter="url(#glow)">
+    <circle cx="40" cy="20" r="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="315" cy="8" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="20" r="5" fill="#a855f7"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="685" cy="32" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" begin="3s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="20" r="4"><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" begin="4s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

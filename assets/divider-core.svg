@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40">
+  <defs>
+    <linearGradient id="l" x1="1" x2="0">
+      <stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="r" x1="0" x2="1">
+      <stop offset="0" stop-color="#00d4ff"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="8s" repeatCount="indefinite"/>
+    <rect x="80" y="19" width="380" height="2" fill="url(#l)"/>
+    <rect x="540" y="19" width="380" height="2" fill="url(#r)"/>
+  </g>
+  <g filter="url(#glow)" fill="none" stroke-width="2">
+    <rect x="490" y="10" width="20" height="20" transform="rotate(45 500 20)" stroke="#00d4ff">
+      <animate attributeName="stroke" values="#00d4ff;#a855f7;#00d4ff" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="470" cy="20" r="2.5" fill="#a855f7" stroke="none"><animate attributeName="opacity" values="0.2;1;0.2" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="530" cy="20" r="2.5" fill="#a855f7" stroke="none"><animate attributeName="opacity" values="0.2;1;0.2" dur="8s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

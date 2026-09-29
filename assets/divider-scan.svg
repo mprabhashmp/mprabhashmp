@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40">
+  <defs>
+    <linearGradient id="beam" x1="0" x2="1">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#e9d5ff"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-300%" width="200%" height="700%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+    <clipPath id="c"><rect x="30" y="0" width="940" height="40"/></clipPath>
+  </defs>
+  <rect x="30" y="19.5" width="940" height="1" fill="#302b63"/>
+  <g clip-path="url(#c)">
+    <g>
+      <rect x="-200" y="16" width="200" height="8" fill="url(#beam)" filter="url(#glow)"/>
+      <rect x="-200" y="19" width="200" height="2" fill="url(#beam)"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1400 0" dur="9s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
