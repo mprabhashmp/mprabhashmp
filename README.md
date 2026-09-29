@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mprabhashmp99"><img src="https://img.shields.io/badge/LinkedIn-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/channel/UC11eirLdPTtGWU5KlSE5WyA"><img src="https://img.shields.io/badge/YouTube-0A0F1F?style=for-the-badge&logo=youtube&logoColor=FF0050" alt="YouTube"/></a>
   <img src="https://komarev.com/ghpvc/?username=mprabhashmp&label=PROFILE%20VIEWS&color=00d4ff&style=for-the-badge" alt="Profile views"/>
 </p>
 
