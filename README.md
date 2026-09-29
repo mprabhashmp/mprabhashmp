@@ -29,7 +29,6 @@ focus:     [ Full-Stack Web, Cloud, Machine Learning ]
 currently: Building scalable, cloud-native applications
 learning:  AI / ML & DevOps automation
 motto:     "Make it work → Make it right → Make it fast"
-status:    ⚡ Online & shipping
 ```
 
 </td>
@@ -39,7 +38,7 @@ status:    ⚡ Online & shipping
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center"><img src="assets/divider-pulse.svg" width="100%"/></p>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## ⚙️ `TECH_STACK.exe`
@@ -71,18 +70,23 @@ status:    ⚡ Online & shipping
 </tr>
 <tr>
   <td align="center"><b>🧪 Tools & Design</b></td>
-  <td><img src="https://skillicons.dev/icons?i=postman,selenium,figma,ps&theme=dark" /></td>
+  <td><img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=dark" /> <img src="assets/netbeans.svg" width="48" height="48" alt="NetBeans"/> <img src="https://skillicons.dev/icons?i=postman,selenium,figma,ps&theme=dark" /></td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center"><img src="assets/divider-circuit.svg" width="100%"/></p>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📡 `SYSTEM_DIAGNOSTICS`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mprabhashmp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mprabhashmp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mprabhashmp&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mprabhashmp&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mprabhashmp&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mprabhashmp&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -90,12 +94,10 @@ status:    ⚡ Online & shipping
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mprabhashmp&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Signal" />
+  <img src="https://github-trophies.vercel.app/?username=mprabhashmp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mprabhashmp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
+<p align="center"><img src="assets/divider-scan.svg" width="100%"/></p>
 
 <!-- ═══════════════════════════ BADGES ═══════════════════════════ -->
 ## 🏅 `ACHIEVEMENTS_UNLOCKED`
@@ -106,12 +108,16 @@ status:    ⚡ Online & shipping
   </a>
 </p>
 
+<p align="center"><img src="assets/divider-wave.svg" width="100%"/></p>
+
 <!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 ## 💬 `DAILY_TRANSMISSION`
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
 </p>
+
+<p align="center"><img src="assets/divider-core.svg" width="100%"/></p>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
