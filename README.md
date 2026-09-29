@@ -80,21 +80,8 @@ motto:     "Make it work → Make it right → Make it fast"
 ## 📡 `SYSTEM_DIAGNOSTICS`
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mprabhashmp&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mprabhashmp&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mprabhashmp&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mprabhashmp&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mprabhashmp&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=mprabhashmp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img height="180" src="https://streak-stats.demolab.com?user=mprabhashmp&theme=tokyonight&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mprabhashmp&theme=tokyonight" />
 </p>
 
 <p align="center"><img src="assets/divider-scan.svg" width="100%"/></p>
