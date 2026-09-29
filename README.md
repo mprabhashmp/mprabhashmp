@@ -70,7 +70,7 @@ motto:     "Make it work → Make it right → Make it fast"
 </tr>
 <tr>
   <td align="center"><b>🧪 Tools & Design</b></td>
-  <td><img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=dark" /> <img src="assets/netbeans.svg" width="48" height="48" alt="NetBeans"/> <img src="https://skillicons.dev/icons?i=postman,selenium,figma,ps&theme=dark" /></td>
+  <td><img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio&theme=dark" /> <img src="assets/netbeans.svg" width="48" height="48" alt="NetBeans"/> <img src="https://skillicons.dev/icons?i=postman,selenium,figma&theme=dark" /></td>
 </tr>
 </table>
 
